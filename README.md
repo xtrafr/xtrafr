@@ -19,7 +19,7 @@
 <img 
   align="right" 
   height="160" 
-  src="https://pixelvault.co/he35nohlam8320dssbbj5uavo"
+  src="https://pixelvault.co/he35nohlam8320dssbbj5uavo/direct"
 />
 
 ### 🧩 Tech Stack
