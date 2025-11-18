@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm xtra — Frontend Developer</h1>
+<h1 align="left">Hi, I'm xtra, Frontend Developer</h1>
 
 <p align="left">
   I build fast, modern, aesthetic websites with smooth animations and clean code.
@@ -19,7 +19,7 @@
 <img 
   align="right" 
   height="160" 
-  src="https://pixelvault.co/dn5q98bfoau711o0b2x17kkl7/direct"
+  src="https://pixelvault.co/he35nohlam8320dssbbj5uavo"
 />
 
 ### 🧩 Tech Stack
